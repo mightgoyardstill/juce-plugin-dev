@@ -1,0 +1,5 @@
+
+juce_add_modules (
+    ALIAS_NAMESPACE custom
+    juce_extensions
+)
